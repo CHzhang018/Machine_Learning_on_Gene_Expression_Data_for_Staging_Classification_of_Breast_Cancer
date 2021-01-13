@@ -1,1 +1,1 @@
-# Machine_Learning_on_Gene_Expression_Data_for_Staging_Classification_of_Breast_Cancer
+Use TCGA data to predict early/late pathologic stage of breast cancer with gene expression data using classification machine learning algorithm, train and test with multiple models, screen and evaluate significant genes from the model
